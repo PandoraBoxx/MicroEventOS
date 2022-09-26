@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/debug/PwmSignal05Master.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>510</used>
+      <free>15874</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>66432</length>
+      <used>13671</used>
+      <free>52761</free>
+    </memory>
+  </executable>
+</project>
